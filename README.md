@@ -11,9 +11,6 @@
 
 ![Intermediate](https://img.shields.io/badge/Level-Intermediate-blue.svg)
 
-Autodesk University 2020 IoT Demo: An IoT data visualization example made by extending the forge-digital-twin sample project, a Database, MQTT bridge, and some IoT sensors!
-
-![Screenshot](thumbnail.png)
 
 ## Development
 
